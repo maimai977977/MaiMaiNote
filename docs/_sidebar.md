@@ -7,6 +7,8 @@
 * [关于markdwon](zh-cn/note/关于-MarkDwon-语法.md)
 * [初识Bootstrap框架](zh-cn/note/初识Bootstrap框架.md)
 * [MyNav](zh-cn/note/MyNav.md)
+* [感冒互换魔法](zh-cn/note/16.%E6%84%9F%E5%86%92%E4%BA%92%E6%8D%A2%E9%AD%94%E6%B3%95.md)
+
 
 
 
