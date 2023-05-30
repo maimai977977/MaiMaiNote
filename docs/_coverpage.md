@@ -15,5 +15,5 @@
 - 众多主题
 
 [我的部署仓库](https://github.com/maimai977977/MaiMaiNote)
-[Get Started](/README.md)
+[瞧一瞧](/README.md)
 
