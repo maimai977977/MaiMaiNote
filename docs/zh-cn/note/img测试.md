@@ -123,8 +123,6 @@
 ![](https://cdn.staticaly.com/gh/maimai977977/images@master/202306011344089.jpg)
 ![](https://cdn.staticaly.com/gh/maimai977977/images@master/202306011344088.jpg)
 ![](https://cdn.staticaly.com/gh/maimai977977/images@master/202306011344087.jpg)
-![](https://cdn.staticaly.com/gh/maimai977977/images@master/202306011150457.png)
-![](https://cdn.staticaly.com/gh/maimai977977/images@master/202306011150737.png)
 ![](https://cdn.staticaly.com/gh/maimai977977/images@master/202306010052555.webp)
 ![](https://cdn.staticaly.com/gh/maimai977977/images@master/guomie2.webp)
 ![](https://cdn.staticaly.com/gh/maimai977977/images@master/mai/guomie.webp)
