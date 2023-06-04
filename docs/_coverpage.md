@@ -3,17 +3,14 @@
 
 
 
-# docsify <small>3.5</small>
-<div align=center>
-<img src="https://api.r10086.com/樱道随机图片api接口.php?图片系列=动漫综合1" width="500px" height="300px" />
-</div>
+<img width="160px" style="border-radius: 50%" bor src="https://api.r10086.com/樱道随机图片api接口.php?图片系列=动漫综合1">
 
-> 一个神奇的文档网站生成器。
+# **docsify-demo**
 
-- 简单、轻便 (压缩后 ~21kB)
-- 无需生成 html 文件
-- 众多主题
+- 本文档是作者笔记站，记录美好生活
 
-[我的部署仓库](https://github.com/maimai977977/MaiMaiNote)
+[![stars](https://badgen.net/github/stars/maimai977977/MaiMaiNote?color=4ab8a1)](https://github.com/maimai977977/MaiMaiNote)
+[![forks](https://badgen.net/github/forks/maimai977977/MaiMaiNote?color=4ab8a1)](https://github.com/maimai977977/MaiMaiNote)
+![](https://img.shields.io/badge/%E6%91%B8%E9%B1%BC-%E7%A8%8B%E5%BA%8F%E5%91%98-green)
 [瞧一瞧](/README.md)
 
