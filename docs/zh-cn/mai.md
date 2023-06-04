@@ -10,3 +10,4 @@
 
 > 本站构成 Github + Git + Docsify + [Netlify](https://www.netlify.com/)
 
+![](https://badgen.net/github/stars/maimai977977/MaiMaiNote)
