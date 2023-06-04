@@ -11,6 +11,6 @@
 
 [![stars](https://badgen.net/github/stars/maimai977977/MaiMaiNote?color=4ab8a1)](https://github.com/maimai977977/MaiMaiNote)
 [![forks](https://badgen.net/github/forks/maimai977977/MaiMaiNote?color=4ab8a1)](https://github.com/maimai977977/MaiMaiNote)
-![](https://img.shields.io/badge/%E6%91%B8%E9%B1%BC-%E7%A8%8B%E5%BA%8F%E5%91%98-green)
+![](https://img.shields.io/badge/%E6%91%B8%E9%B1%BC-%E7%A8%8B%E5%BA%8F%E5%91%98-green)(https://github.com/maimai977977/MaiMaiNote)
 [瞧一瞧](/README.md)
 
