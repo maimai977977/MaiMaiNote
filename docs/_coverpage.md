@@ -3,7 +3,7 @@
 
 
 
-<img width="160px" style="border-radius: 50%" bor src="https://cdn.staticaly.com/gh/maimai977977/images@master/202306011344190.jpg">
+<img width="100px" style="border-radius: 50%" bor src="https://cdn.staticaly.com/gh/maimai977977/images@master/202306011344190.jpg">
 
 # **docsify-demo**
 
