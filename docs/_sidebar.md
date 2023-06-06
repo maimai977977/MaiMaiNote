@@ -14,6 +14,8 @@
     - [为什么精英都是时间控](zh-cn/books/1.%E4%B8%BA%E4%BB%80%E4%B9%88%E7%B2%BE%E8%8B%B1%E9%83%BD%E6%98%AF%E6%97%B6%E9%97%B4%E6%8E%A7.md)
     - [我的职业是小说家](zh-cn/books/2.%E6%88%91%E7%9A%84%E8%81%8C%E4%B8%9A%E6%98%AF%E5%B0%8F%E8%AF%B4%E5%AE%B6.md)
     - [时间管理](zh-cn/books/3.%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86.md)
+    - [时间管理](zh-cn/books/4.%E6%88%91%E6%9B%BE%E8%B5%B0%E5%9C%A8%E5%B4%A9%E6%BA%83%E8%BE%B9%E7%BC%98.md)
+    
 
 
 
