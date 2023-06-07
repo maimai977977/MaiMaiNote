@@ -12,13 +12,3 @@
 
 ![](https://badgen.net/github/stars/maimai977977/MaiMaiNote)
 
-
-```mermaid
-
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-
-```
