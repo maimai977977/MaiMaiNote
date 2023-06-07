@@ -17,8 +17,8 @@
     - [我曾走在崩溃边缘](zh-cn/books/4.%E6%88%91%E6%9B%BE%E8%B5%B0%E5%9C%A8%E5%B4%A9%E6%BA%83%E8%BE%B9%E7%BC%98.md)
 - 英语词义分类数据库(大学版)
     - [总目录](zh-cn/obsidian/00%E6%80%BB%E7%9B%AE%E5%BD%95/)   
-        - [label](zh-cn/obsidian/00%E6%80%BB%E7%9B%AE%E5%BD%95/000%E6%80%BB%E7%9B%AE%E5%BD%95%E5%85%A8%E8%A7%88.md)
-        - [label](zh-cn/obsidian/00%E6%80%BB%E7%9B%AE%E5%BD%95/01%E5%9F%BA%E7%A1%80%E9%A2%86%E5%9F%9F.md)
+    - [label](zh-cn/obsidian/00%E6%80%BB%E7%9B%AE%E5%BD%95/000%E6%80%BB%E7%9B%AE%E5%BD%95%E5%85%A8%E8%A7%88.md)
+    - [label](zh-cn/obsidian/00%E6%80%BB%E7%9B%AE%E5%BD%95/01%E5%9F%BA%E7%A1%80%E9%A2%86%E5%9F%9F.md)
 
 
 
