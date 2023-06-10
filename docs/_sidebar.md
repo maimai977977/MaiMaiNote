@@ -7,7 +7,6 @@
     - [MyNav](zh-cn/note/MyNav.md)
     - [感冒互换魔法](zh-cn/note/16.%E6%84%9F%E5%86%92%E4%BA%92%E6%8D%A2%E9%AD%94%E6%B3%95.md)
     - [html转md](zh-cn/note/html%E8%BD%ACmd.md)
-    - [工具](zh-cn/note/%E5%B7%A5%E5%85%B7.md)
     - [img测试](zh-cn/note/img%E6%B5%8B%E8%AF%95.md)
  
 - 书单分享
