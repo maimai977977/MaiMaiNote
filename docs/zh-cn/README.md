@@ -1,4 +1,19 @@
-This is my Note , welcome to my Note
+<!-- {docsify-ignore}  忽略副标题-->
+
+<!-- # Headline
+## hello  {docsify-ignore} -->
+
+# 个人学习笔记分享
+![logo](https://docsify.js.org/_media/icon.svg ':size=WIDTHxHEIGHT')
+![logo](https://docsify.js.org/_media/icon.svg ':size=50x100')
+![logo](https://docsify.js.org/_media/icon.svg ':size=100')
+
+> [!NOTE]
+> 本站构成 Github + Git + Docsify + [Netlify](https://www.netlify.com/) 
+> ![](https://badgen.net/github/stars/maimai977977/MaiMaiNote)
+
+
+
 
 大家好，我是MaiMai。欢迎来到我的博客！在这里，我将与大家分享我对领域专长的热爱和专业知识。
 

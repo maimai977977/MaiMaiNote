@@ -1,7 +1,6 @@
 <!-- docs/_sidebar.md -->
 <!-- 定制侧边栏 -->
 - 介绍
-    - [介绍](zh-cn/mai)
     - [关于](zh-cn/note/vuepress-Or-docsify.md)
 - 书单分享
     - [为什么精英都是时间控](zh-cn/books/1.%E4%B8%BA%E4%BB%80%E4%B9%88%E7%B2%BE%E8%8B%B1%E9%83%BD%E6%98%AF%E6%97%B6%E9%97%B4%E6%8E%A7.md)
@@ -15,7 +14,7 @@
     - [编程导航](https://www.code-nav.cn/)
     - [大圣前端编程自学网](https://roadmap.shengxinjing.cn/)
 - 工具类
-    - [MyNav](zh-cn/note/MyNav.md)
-    - [html转md](zh-cn/note/html%E8%BD%ACmd.md)
-    - [img测试](zh-cn/note/img%E6%B5%8B%E8%AF%95.md)
+    - [Nav](zh-cn/note/MyNav.md)
+    - [Html](zh-cn/note/html%E8%BD%ACmd.md)
+    - [IMG_test](zh-cn/note/img%E6%B5%8B%E8%AF%95.md)
     - [Notion](https://www.notion.so/My-navigation-4e65c51c2d684b719c4750e989ab6c06?pvs=4)
