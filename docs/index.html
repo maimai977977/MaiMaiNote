@@ -8,6 +8,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
   <link rel="stylesheet" href="/style/myStyle.css">
+    <!-- 暗黑模式 -->
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-dark-mode@latest/dist/style.min.css">
+  <!-- 文化档目录 -->
+  <link rel="stylesheet" href="https://unpkg.com/docsify-toc@1.0.0/dist/toc.css">
 </head>
 <body>
   <div id="app">加载ing......🥳🥳🥳</div>
@@ -112,6 +116,55 @@
           color:'rgb(90,90,90)',
           language:'chinese'
         },
+         // 进度条美化
+      progress:{
+        position:"top",
+        color:"var(--theme-color,#46fbd4)",
+        height:"3px",
+      },
+      // 回到顶部
+      docsifyBackTop:{
+        size:32,
+        bottom:15,
+        right:15,
+        logo:'top',
+        bgColor:'#99fbf3'
+      },
+      // 文本高亮
+      'flexible-alerts': {
+              style: 'flat',
+              note: {
+                  label: "信息"
+              },
+              tip: {
+                  label: "提示"
+              },
+              warning: {
+                  label: "注意"
+              },
+              attention: {
+                  label: "切记"
+              }
+          },
+      // 暗黑模式
+      darkMode:{
+        dark: {
+          background: "#1c2022",
+          toggleBtnBg: "#34495e",
+          textColor: "#b4b4b4"
+        },
+      light: {
+        background: "white",
+        toggleBtnBg: "var(--theme-color)",
+        textColor: "var(--theme-color)"
+        }
+    },
+    // 文化档目录
+      toc: {
+        scope: '.markdown-section',
+        headings: 'h1, h2, h3, h4, h5, h6',
+        title: 'Table of Contents',
+      },
 
 
 }
@@ -122,24 +175,26 @@
 
 
 
+<!-- Docsify v4 -->
+<!-- <script src="//cdn.jsdelivr.net/npm/docsify@4"></script> -->
+<script src="https://cdn.jsdelivr.net/npm/docsify@4"></script>
+<script src="//unpkg.com/docsify-count/dist/countable.js"></script>
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+<!-- 图片缩放插件 -->
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+<!-- 进度条美化 -->
+<script src="https://cdn.jsdelivr.net/npm/docsify-progress@latest/dist/progress.min.js"></script>
+<!-- 复制提醒 -->
+<script src="https://cdn.bootcss.com/sweetalert/1.1.3/sweetalert.min.js"></script>
 
-      <!-- Docsify v4 -->
-  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
-  <script src="//unpkg.com/docsify-count/dist/countable.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
-  <!-- 图片缩放插件 -->
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
-
-  <!-- 复制提醒 -->
-  <script src="https://cdn.bootcss.com/sweetalert/1.1.3/sweetalert.min.js"></script>
-
-     <!-- 置顶插件 -->
-  
-  <script src="style/jquery-1.11.3.min.js"></script>
-  <script src="style/jquery.toTop.min.js"></script>
-  <script>
-    $('.to-top').toTop();
-  </script>
+<!-- 回到顶部 -->
+<script src="https://cdn.jsdelivr.net/gh/Sumsung524/docsify-backTop/dist/docsify-backTop.min.js"></script>
+<!-- 文本高亮 -->
+<script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script>
+<!-- 暗黑模式 -->
+<script src="//cdn.jsdelivr.net/npm/docsify-dark-mode@latest/dist/index.min.js"></script>
+  <!-- 文化档目录 -->
+  <script src="https://unpkg.com/docsify-toc@1.0.0/dist/toc.js"></script>
 
 
 </body>
