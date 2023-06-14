@@ -13,6 +13,7 @@
     - [r2coding](https://www.r2coding.com/#/)
     - [编程导航](https://www.code-nav.cn/)
     - [大圣前端编程自学网](https://roadmap.shengxinjing.cn/)
+    - [🐟聪明AI](https://www.yucongming.com/)
 - 工具类
     - [Nav](zh-cn/note/MyNav.md)
     - [Html](zh-cn/note/html%E8%BD%ACmd.md)
